@@ -1,0 +1,8 @@
+2024-01-12 15:04:41.173 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2024-01-12 15:04:41.527 +01:00 [INF] User profile is available. Using 'C:\Users\alvin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-12 15:04:42.212 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-12 15:04:42.212 +01:00 [INF] Hosting environment: Development
+2024-01-12 15:04:42.212 +01:00 [INF] Content root path: D:\Visual Studio c#\Asp.net core API\JensenAuctionSolutionAPI\JensenAuctionSolutionAPI
+2024-01-12 15:04:42.466 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44393/weatherforecast - null null
+2024-01-12 15:04:43.971 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44393/weatherforecast - 404 null null 1516.7599ms
+2024-01-12 15:04:43.981 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:44393/weatherforecast, Response status code: 404
